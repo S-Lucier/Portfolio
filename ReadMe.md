@@ -5,6 +5,10 @@ A selection of a few works from my time at UNF
 A programming project from Programming 2, and the most complicated program I've written.
 It's nothing particularly advanced, but should demonstrate I know enough programming for basic data manipulation tasks.
 
+#### Statistics Capstone Random Forest Presentation
+A presentation I recently gave on Random Forest statistical models for my statistics capstone. An explanation of the method via application to credit card fraud data.
+Most of the data manipulation was done using Kaggle.
+
 #### Econonometrics Paper
 A paper anaylising the accurary of the psueo-prediction market metaculus, written as the final project for my econometics class.
 
