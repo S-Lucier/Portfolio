@@ -10,7 +10,7 @@ A presentation I recently gave on Random Forest statistical models for my statis
 Most of the data manipulation was done using Kaggle.
 
 #### Econonometrics Paper
-A paper anaylising the accurary of the psueo-prediction market metaculus, written as the final project for my econometics class.
+A paper anaylising the accurary of the pseudo-prediction market metaculus, written as the final project for my econometrics class.
 
 #### Germany-Belgium Study Abroad Reflection
 A short piece on my study abroad trip. More relaxed writing style.
