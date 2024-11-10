@@ -16,4 +16,4 @@ A paper analyzing the accuracy of the pseudo-prediction market metaculus, writte
 A short piece on my study abroad trip. More relaxed writing style.
 
 #### Aging Roll20 White Paper
-A white paper on issues plaguing the tabletop gaming platform Roll20, describing problems and solutions (namely, jumping ship to one of several different platforms)
+A white paper on issues plaguing the tabletop gaming platform Roll20, describing problems and solutions (namely, jumping ship to one of several different platforms).
