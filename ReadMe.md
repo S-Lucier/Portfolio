@@ -3,7 +3,7 @@ A selection of a few works from my time at UNF
 
 #### Programming 2 Project
 This is a programming project from my Programming 2 class that takes creates a simple ticket system to assign work orders to employees based on a few characteristics.
-It's nothing advanced, but should demonstrate I know enough programming for basic data manipulation tasks, and I could learn more if needed.
+It's nothing advanced, but should demonstrate I know enough programming for basic data manipulation tasks.
 
 #### Statistics Capstone Random Forest Presentation
 A presentation I recently gave on Random Forest statistical models for my statistics capstone. An explanation of the method via application to credit card fraud data.
