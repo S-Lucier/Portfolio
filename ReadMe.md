@@ -1,5 +1,5 @@
-# Portfolio
-A selection of a few works from my time at UNF
+#### [Instawall](https://github.com/S-Lucier/InstaWall)
+WIP attempt to train a vision model to identify and mark wall/playable space area on VTT battlemaps and dungeons.
 
 #### Programming 2 Project
 This is a programming project from my Programming 2 class that takes creates a simple ticket system to assign work orders to employees based on a few characteristics.
@@ -17,8 +17,5 @@ A short piece on my study abroad trip. More relaxed writing style.
 
 #### Aging Roll20 White Paper
 A white paper on issues plaguing the tabletop gaming platform Roll20, describing problems and solutions for users of the plactform.
-
-#### [Instawall]((https://github.com/S-Lucier/InstaWall))
-WIP attempt to train a vision model to identify and mark wall/playable space area on VTT battlemaps and dungeons.
 
 
