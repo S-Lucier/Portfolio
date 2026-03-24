@@ -18,5 +18,7 @@ A short piece on my study abroad trip. More relaxed writing style.
 #### Aging Roll20 White Paper
 A white paper on issues plaguing the tabletop gaming platform Roll20, describing problems and solutions for users of the plactform.
 
-#### [Pf2e Combat Sim (WIP)](https://github.com/S-Lucier/Pf2eCombatSim)
-A Monte Carlo sim I'm writing to level up my coding skills and solve some questions the pf2e optimization community has about damage variability’s effect on survival chance. Very much a work in progress right now, I have the basic data structure for characters, attacks, etc. mostly done but I still need to write the file scanning and sim - though the file scanning is quite boilerplate.
+#### [Instawall]((https://github.com/S-Lucier/InstaWall))
+WIP attempt to train a vision model to identify and mark wall/playable space area on VTT battlemaps and dungeons.
+
+
